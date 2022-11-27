@@ -8,4 +8,5 @@ Every drone has to have topics under different namespaces like:
 Topics and Services to be added in the Setup File
 
 
-![Video of Implementation](https://github.com/Samorange1/Multiple-Drones-Mavros/blob/main/Multiple_drones_Square_trajectory.gif / GIF)
+![Multiple_drones_Square_trajectory](https://user-images.githubusercontent.com/71136335/204164466-f6e93de2-68b2-48dc-8c7b-b4cf9a683eb9.gif)
+
